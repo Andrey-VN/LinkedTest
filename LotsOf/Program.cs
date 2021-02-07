@@ -59,7 +59,6 @@ namespace LotsOf
             return list.GetEnumerator();
         }
 
-
         public Lots<T> Union(Lots<T> item)
         {
             Lots<T> ts = new Lots<T>(list);
@@ -121,6 +120,7 @@ namespace LotsOf
             {
                 Console.WriteLine(i);
             }
+
             Console.ReadLine();
         }
 

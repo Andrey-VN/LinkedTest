@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LotsOf", "LotsOf\LotsOf.csproj", "{1450EF48-87FB-4B9F-A761-4D89A17B0862}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortTest", "SortTest\SortTest.csproj", "{BA6854E7-6B84-428C-8A71-F24BE67C322E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1450EF48-87FB-4B9F-A761-4D89A17B0862}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1450EF48-87FB-4B9F-A761-4D89A17B0862}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1450EF48-87FB-4B9F-A761-4D89A17B0862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA6854E7-6B84-428C-8A71-F24BE67C322E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6854E7-6B84-428C-8A71-F24BE67C322E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6854E7-6B84-428C-8A71-F24BE67C322E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6854E7-6B84-428C-8A71-F24BE67C322E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
